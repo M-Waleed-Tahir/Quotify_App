@@ -1,6 +1,6 @@
-# quotify_app
+# CodeAplha_Internship
 
-A new Flutter project.
+CodeAplha Task # 01
 
 ## Getting Started
 
