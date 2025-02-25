@@ -1,6 +1,6 @@
-# CodeAplha_Internship
+# Internship App
 
-CodeAplha Task # 01
+Quotify_App
 
 ## Getting Started
 
