@@ -1,6 +1,6 @@
-# Internship App
+# Quotify_App_UIProject
 
-Quotify_App
+
 
 ## Getting Started
 
